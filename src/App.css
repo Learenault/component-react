@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.cars{
+  background-color: pink;
+  padding: 10px;
+  margin: 5px auto;
+  width: 40%;
+}
+
+.upper{
+  color: red;
+  text-transform: uppercase;
+}
